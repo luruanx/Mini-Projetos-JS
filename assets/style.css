@@ -79,6 +79,10 @@ header p {
     color: #777;
 }
 
+a {
+    text-decoration: none;
+}
+
 /* Footer */
 footer {
     margin-top: 3em;
