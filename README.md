@@ -28,8 +28,9 @@ Confira abaixo os 7 projetos desenvolvidos para aprimorar habilidades em JavaScr
  <br>
 
 ### Bateria Virtual
-Aqui está a estruturação do code [HTML/CSS e JS](https://github.com/luruanx/Mini-Projetos-JS/tree/main/assets/projetos/Proj%2001%20-%20Bateria) ou se preferir <a href="https://luruanx.github.io/Mini-Projetos-JS/assets/projetos/Proj%2001%20-%20Bateria/index.html">veja o resultado</a>.
-<br>
+    Use teclas com efeitos sonoros de bateria ou faça uma composição para reprodução automática.
+
+<div align="center"> Aqui está a estruturação do código <a href="https://github.com/luruanx/Mini-Projetos-JS/tree/main/assets/projetos/Proj%2001%20-%20Bateria">HTML, CSS e JS</a> ou se preferir <a href="https://luruanx.github.io/Mini-Projetos-JS/assets/projetos/Proj%2001%20-%20Bateria/index.html">veja o resultado</a>. </div>
 <br>
 
 https://github.com/user-attachments/assets/06d9fbf1-ee64-4a7f-99d8-25833afd7cbb
@@ -38,8 +39,9 @@ https://github.com/user-attachments/assets/06d9fbf1-ee64-4a7f-99d8-25833afd7cbb
 <br>
 
 ### Relógio Analógico
-Aqui está a estruturação do code [HTML/CSS e JS](https://github.com/luruanx/Mini-Projetos-JS/tree/main/assets/projetos/Proj%2002%20-%20Rel%C3%B3gio) ou se preferir <a href="https://luruanx.github.io/Mini-Projetos-JS/assets/projetos/Proj%2002%20-%20Rel%C3%B3gio/index.html">veja o resultado</a>.
-<br>
+    Apresenta um mostrador tradicional com ponteiros, e também um digital que se movem em tempo real.
+
+<div align="center"> Aqui está a estruturação do código <a href="https://github.com/luruanx/Mini-Projetos-JS/tree/main/assets/projetos/Proj%2002%20-%20Rel%C3%B3gio">HTML, CSS e JS</a> ou se preferir <a href="https://luruanx.github.io/Mini-Projetos-JS/assets/projetos/Proj%2002%20-%20Rel%C3%B3gio/index.html">veja o resultado</a>. </div>
 <br>
 
 https://github.com/user-attachments/assets/05d68fd2-6751-456f-898c-ae4bc25daf8b
@@ -48,8 +50,9 @@ https://github.com/user-attachments/assets/05d68fd2-6751-456f-898c-ae4bc25daf8b
 <br>
 
 ### Buscar Clima
-Aqui está a estruturação do code [HTML/CSS e JS](https://github.com/luruanx/Mini-Projetos-JS/tree/main/assets/projetos/Proj%2003%20-%20Clima) ou se preferir <a href="https://luruanx.github.io/Mini-Projetos-JS/assets/projetos/Proj%2003%20-%20Clima/index.html">veja o resultado</a>.
-<br>
+    Usando uma API que entrega informações em tempo real. Painel com busca para qualquer cidade do mundo.
+    
+<div align="center"> Aqui está a estruturação do código <a href="https://github.com/luruanx/Mini-Projetos-JS/tree/main/assets/projetos/Proj%2003%20-%20Clima">HTML, CSS e JS</a> ou se preferir <a href="https://luruanx.github.io/Mini-Projetos-JS/assets/projetos/Proj%2003%20-%20Clima/index.html">veja o resultado</a>. </div>
 <br>
 
 https://github.com/user-attachments/assets/714ca9b3-13f4-4eee-a239-0b7db83ac83a
@@ -58,8 +61,9 @@ https://github.com/user-attachments/assets/714ca9b3-13f4-4eee-a239-0b7db83ac83a
 <br>
 
 ### Jogo da Velha
-Aqui está a estruturação do code [HTML/CSS e JS](https://github.com/luruanx/Mini-Projetos-JS/tree/main/assets/projetos/Proj%2004%20-%20Jogo%20velha) ou se preferir <a href="https://luruanx.github.io/Mini-Projetos-JS/assets/projetos/Proj%2004%20-%20Jogo%20velha/index.html">veja o resultado</a>.
-<br>
+    Desenvolvido com a jogabilidade do clássico jogo, também apresentando o ganhador da partida.
+    
+<div align="center"> Aqui está a estruturação do código <a href="https://github.com/luruanx/Mini-Projetos-JS/tree/main/assets/projetos/Proj%2004%20-%20Jogo%20velha">HTML, CSS e JS</a> ou se preferir <a href="https://luruanx.github.io/Mini-Projetos-JS/assets/projetos/Proj%2004%20-%20Jogo%20velha/index.html">veja o resultado</a>. </div>
 <br>
 
 https://github.com/user-attachments/assets/8e04eedb-e566-40fe-ac83-283d7ab0d0b5
@@ -68,8 +72,9 @@ https://github.com/user-attachments/assets/8e04eedb-e566-40fe-ac83-283d7ab0d0b5
 <br>
 
 ### Quadro de Desenho
-Aqui está a estruturação do code [HTML/CSS e JS](https://github.com/luruanx/Mini-Projetos-JS/tree/main/assets/projetos/Proj%2005%20-%20Quadro) ou se preferir <a href="https://luruanx.github.io/Mini-Projetos-JS/assets/projetos/Proj%2005%20-%20Quadro/index.html">veja o resultado</a>.
-<br>
+    Um painel branco com a funcionalidade de rabiscos livres, com 6 cores para você criar sua arte.
+    
+<div align="center"> Aqui está a estruturação do código <a href="https://github.com/luruanx/Mini-Projetos-JS/tree/main/assets/projetos/Proj%2005%20-%20Quadro">HTML, CSS e JS</a> ou se preferir <a href="https://luruanx.github.io/Mini-Projetos-JS/assets/projetos/Proj%2005%20-%20Quadro/index.html">veja o resultado</a>. </div>
 <br>
 
 https://github.com/user-attachments/assets/e88764bf-f77c-4a45-989e-798359ceb807
@@ -78,8 +83,9 @@ https://github.com/user-attachments/assets/e88764bf-f77c-4a45-989e-798359ceb807
 <br>
 
 ### Quiz
-Aqui está a estruturação do code [HTML/CSS e JS](https://github.com/luruanx/Mini-Projetos-JS/tree/main/assets/projetos/Proj%2006%20-%20Quiz) ou se preferir <a href="https://luruanx.github.io/Mini-Projetos-JS/assets/projetos/Proj%2006%20-%20Quiz/index.html">veja o resultado</a>.
-<br>
+    Várias questões com seleções de respostas e um gráfico que acompanha processo.
+    
+<div align="center"> Aqui está a estruturação do código <a href="https://github.com/luruanx/Mini-Projetos-JS/tree/main/assets/projetos/Proj%2006%20-%20Quiz">HTML, CSS e JS</a> ou se preferir <a href="https://luruanx.github.io/Mini-Projetos-JS/assets/projetos/Proj%2006%20-%20Quiz/index.html">veja o resultado</a>. </div>
 <br>
 
 https://github.com/user-attachments/assets/84922841-8903-4cee-994d-0610fe6dcd1a
@@ -88,8 +94,9 @@ https://github.com/user-attachments/assets/84922841-8903-4cee-994d-0610fe6dcd1a
 <br>
 
 ### Arrasta e Solta
-Aqui está a estruturação do code [HTML/CSS e JS](https://github.com/luruanx/Mini-Projetos-JS/tree/main/assets/projetos/Proj%2007%20-%20Arrasta) ou se preferir <a href="https://luruanx.github.io/Mini-Projetos-JS/assets/projetos/Proj%2007%20-%20Arrasta/index.html">veja o resultado</a>.
-<br>
+    Elementos que podem ser movidos de uma painel para outro e sinal de ordem correta.
+
+<div align="center"> Aqui está a estruturação do código <a href="https://github.com/luruanx/Mini-Projetos-JS/tree/main/assets/projetos/Proj%2007%20-%20Arrasta">HTML, CSS e JS</a> ou se preferir <a href="https://luruanx.github.io/Mini-Projetos-JS/assets/projetos/Proj%2007%20-%20Arrasta/index.html">veja o resultado</a>. </div>
 <br>
 
 https://github.com/user-attachments/assets/eba56bcb-0458-4305-8711-dc5c00baecbf
