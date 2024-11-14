@@ -5,13 +5,13 @@
 </h1>
 
 <p align="center"> 
-    <a href="#Bateria">Bateria Virtual</a> |
-    <a href="#Relógio">Relógio Analógico</a> |
-    <a href="#Buscar">Buscar Clima</a> |
-    <a href="#Jogo">Jogo da Velha</a> |
-    <a href="#Quadro">Quadro de Desenho</a> |
+    <a href="#Bateria-Virtual">Bateria Virtual</a> |
+    <a href="#Relógio-Analógico">Relógio Analógico</a> |
+    <a href="#Buscar-Clima">Buscar Clima</a> |
+    <a href="#Jogo-da-Velha">Jogo da Velha</a> |
+    <a href="#Quadro-de-Desenho">Quadro de Desenho</a> |
     <a href="#Quiz">Quiz</a> |
-    <a href="#Araasta">Arrasta e Solta</a>
+    <a href="#Araasta-e-Solta">Arrasta e Solta</a>
 </p>
 <br>
 
