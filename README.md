@@ -24,6 +24,9 @@ Confira abaixo os 7 projetos desenvolvidos para aprimorar habilidades em JavaScr
   <img align="center" alt="logo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="logo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+
+<div align="center"> ACESSE AQUI O <a href="luruanx.github.io/Mini-Projetos-JS/">DEPLOY PRINCIPAL</a> </div>
+
  <br>
  <br>
 
